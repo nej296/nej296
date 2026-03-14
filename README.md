@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Nicholas 👋
 
-<!--
-**nej296/nej296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational Neuroscience**
+Building & analyzing models of neurons and neural networks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+I'm a junior-year neuroscience major with a concentration in **computational neuroscience**. I build, troubleshoot, and analyze computational models of neurons and neural networks-and I also build apps and debug code using LLMs.
+
+**Tools I use:** NEURON simulator · Cursor AI · Claude Code
+
+📫 **Best way to connect:** [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+*Always open to collaboration on computational neuroscience projects and AI-assisted development.*
