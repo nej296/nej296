@@ -1,6 +1,7 @@
 ## Hi, I'm Nicholas 👋
 
 **Computational Neuroscience**
+
 Building & analyzing models of neurons and neural networks
 
 ---
