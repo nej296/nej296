@@ -14,6 +14,7 @@ I'm a junior-year neuroscience major with a concentration in **computational neu
 📫 **Best way to connect:** [LinkedIn](https://www.linkedin.com/in/johnsonlink/)
 
 🧠 **Check out my website:** [Website](https://nicholas-johnson-website.vercel.app/)  
+
 ---
 
 *Always open to collaboration on computational neuroscience projects and AI-assisted development.*
