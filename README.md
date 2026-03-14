@@ -11,7 +11,7 @@ I'm a junior-year neuroscience major with a concentration in **computational neu
 
 **Tools I use:** NEURON simulator · Cursor AI · Claude Code
 
-📫 **Best way to connect:** [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 **Best way to connect:** [LinkedIn](https://nicholas-johnson-website.vercel.app/)
 
 ---
 
