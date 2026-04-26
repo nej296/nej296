@@ -10,7 +10,7 @@ Building & analyzing models of neurons and neural networks
 
 I'm a junior-year neuroscience major with a concentration in **computational neuroscience**. I build, troubleshoot, and analyze computational models of neurons and neural networks-and I also build apps and debug code using LLMs.
 
-**Tools I use:** NEURON simulator · Cursor AI · Claude Code
+**Tools I use:** NEURON simulator · Pytorch · Python · Cursor AI · Claude Code 
 
 📫 **Best way to connect:** [LinkedIn](https://www.linkedin.com/in/johnsonlink/)
 
